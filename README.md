@@ -30,5 +30,8 @@ Process of the project :
 - Persistent High Ranks: Despite variances, the film maintained high box office ranks during its cinematic cycle.
 - Revenue Equilibrium: Post-initial surge, the total gross demonstrated equilibrium, suggesting a continuous audience flow over a protracted timeline.
 
+<h2>PowerBI Visualisations</h2>
+[Power_BI_IMDB.pdf](https://github.com/RaunakSMatharu/IMDB/files/13926788/Power_BI_IMDB.pdf)
+
 <h2>Link for tableau</h2>
 https://public.tableau.com/app/profile/raunak.singh.matharu4709/viz/Imdb_Dashboard_17018930700460/IMDB_Dashboard
