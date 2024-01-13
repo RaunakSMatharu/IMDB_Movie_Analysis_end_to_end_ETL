@@ -14,7 +14,7 @@ Process of the project :
 4) Engineered and executed ETL blueprints in Talend, employing metadata-driven linkages, contexts, and settings to refine data management procedures.
 5) Crafted interactive and adaptable dashboards within Power BI and Tableau, validating the consistency of SQL script outcomes with visualized analytics, adeptly presenting pivotal metrics and patterns.
 
-<h1>Observation </h1>Alteryx:
+<h1>Observation </h1>
 
 <h4>Alteryx Data Profiling Findings</h4>
 - Rank: The film's position oscillated between 1 to 55 throughout its box office tenure, inclusive of “-” values.
@@ -29,3 +29,6 @@ Process of the project :
 - Sustained Cinema Presence: The film's extended presence in cinemas (336 days) underlines its enduring popularity.
 - Persistent High Ranks: Despite variances, the film maintained high box office ranks during its cinematic cycle.
 - Revenue Equilibrium: Post-initial surge, the total gross demonstrated equilibrium, suggesting a continuous audience flow over a protracted timeline.
+
+<h2>Link for tableau</h2>
+https://public.tableau.com/app/profile/raunak.singh.matharu4709/viz/Imdb_Dashboard_17018930700460/IMDB_Dashboard
